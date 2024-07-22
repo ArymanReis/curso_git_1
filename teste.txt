@@ -1,1 +1,1 @@
-Iniciando o curso de Git e GitHub
+Iniciando o curso de Git e GitHub Frontend
